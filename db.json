@@ -1,0 +1,186 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Ironman",
+      "powers": [
+        "Genius-level intellect",
+        "Fly"
+      ],
+      "weapons": [
+        "Repulsor rays",
+        "Lasers"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 2,
+      "name": "Loki",
+      "powers": [
+        "Magic and illusion",
+        "Shapeshifting"
+      ],
+      "weapons": [
+        "Magic sword",
+        "Laevateinn"
+      ],
+      "stone": "Space Stone",
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7d/Thor_Ragnarok_Textless_Character_Posters_03.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 3,
+      "name": "Captain America",
+      "powers": [
+        "Martial art",
+        "Indestructible shield"
+      ],
+      "weapons": [
+        "Vibranium shield"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/CapAmerica-EndgameProfile.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 4,
+      "name": "Doctor Strange",
+      "powers": [
+        "Fly",
+        "Telekinesis",
+        "Hypnotism",
+        "Jumping Dimensions"
+      ],
+      "weapons": [
+        "Cloak of Levitation",
+        "Eye of Agamotto",
+        "Orb of Agamotto "
+      ],
+      "stone": "Time Stone",
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/d/d9/Doctor_Strange_AIW_Profile.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 5,
+      "name": "Spider-Man",
+      "powers": [
+        "Web-shooting.",
+        "Leaping"
+      ],
+      "weapons": [
+        "Web-shooters"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/Spider-Man_FFH_Profile.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 6,
+      "name": "Hulk",
+      "powers": [
+        "Regeneration.",
+        "Breathing underwater",
+        "Nigh invulnerability"
+      ],
+      "weapons": [
+        "Strength"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/ProfHulkAvengersEndgamelicensingart001.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 7,
+      "name": "Captain Marvel",
+      "powers": [
+        "Fly.",
+        "Energy absorption"
+      ],
+      "weapons": [
+        "Nega Bands"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/f/fe/CapMarvel-EndgameProfile.jpeg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 8,
+      "name": "Deadpool",
+      "powers": [
+        "Extreme regeneration.",
+        "Immortal",
+        "Assassin"
+      ],
+      "weapons": [
+        "Katanas",
+        "Guns"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/ultimate-marvel-cinematic-universe/images/6/6c/Dead.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 9,
+      "name": "Wolverine",
+      "powers": [
+        "Reflexes",
+        "Regeneration",
+        "Senses"
+      ],
+      "weapons": [
+        "Adamantium claws",
+        "Katanas"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/ultimate-marvel-cinematic-universe/images/7/75/Tom-Hardy-as-Wolverine.jpg/revision/latest/scale-to-width-down/338"
+    },
+    {
+      "id": 10,
+      "name": "Quake",
+      "powers": [
+        "Earthquake",
+        "Vibration generation"
+      ],
+      "weapons": [
+        "Firearms"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/f/f8/Quake_-_MAOSS6.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 11,
+      "name": "Thor",
+      "powers": [
+        "Weather manipulation",
+        "Flight via Mjolnir"
+      ],
+      "weapons": [
+        "Warhammer Mjolnir"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/Thor-EndgameProfile.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 12,
+      "name": "Ant-Man",
+      "powers": [
+        "Telepathy",
+        "Size-changing",
+        "Dimension-hopping"
+      ],
+      "weapons": [
+        "Stinger firearm"
+      ],
+      "stone": null,
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/e/ea/AntMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310"
+    },
+    {
+      "id": 13,
+      "name": "Thanos",
+      "powers": [
+        "Telepathy",
+        "Energy manipulation"
+      ],
+      "weapons": [
+        "Stasis Rifle",
+        "Infinity Gauntlet"
+      ],
+      "stone": "Infinity Stone",
+      "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/6/63/97d1d9f934a350cee765c5ac1a466605.jpg/revision/latest/scale-to-width-down/310"
+    }
+  ]
+}
